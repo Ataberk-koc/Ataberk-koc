@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ataberk-koc
 - 👀 I’m interested in WRITE CODE
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on about the code
 - 📫 How to reach me ... ataberkoc123@outlook.com
 
